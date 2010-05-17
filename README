@@ -1,0 +1,8 @@
+A project to develop a 2.5D RPG based on multiple physical layers
+The project will include
+- A physics sim
+- Tile based graphics and interactions, but dynamic player movement
+- Spell building from components
+- Expansive levels and monsters with an ARPG combat system
+- Spells havethe ability to interact with the environment
+- Layers built on "3D" tiles
